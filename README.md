@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ghazinouri
-- 👀 I’m interested in a lot of things
-- 💞️ I’m looking to collaborate on human rights and tech projects
 - 📫 ghazinouri@almost anywhere you can imagine
 
 <!---
